@@ -1,4 +1,4 @@
-# This repository contains scripts that analyzes TF enrichment in chromatin looping interactions in ESC.  
+# Analysis of enrichment of Klf4 and other factors in chromatin looping interactions in ESC.  
 
 ChIP-seq data source:
 - Chronis C, Fiziev P, Papp B, Butz S, Bonora G, Sabri S, Ernst J, Plath K. 2017. Cooperative Binding of Transcription Factors Orchestrates Reprogramming. Cell 168: 442–459.e20.
